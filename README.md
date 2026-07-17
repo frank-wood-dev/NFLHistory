@@ -4,7 +4,7 @@ A personal NFL historical database and ranking engine.
 
 ## Overview
 
-This project models NFL games, teams, and franchises beginning with the Super Bowl era. It is designed to support historical analysis, franchise rankings, head-to-head reports, and custom statistical research.
+This project models NFL games, historical teams, and franchises beginning with the Super Bowl era.
 
 ## Technologies
 
