@@ -12,6 +12,15 @@ This project models NFL games, historical teams, and franchises beginning with t
 - PostgreSQL
 - SQL
 
+## Current Features
+
+- Historical game database
+- Franchise and team modeling
+- SQL reporting
+- Franchise rankings
+- Head-to-head rivalry analysis
+- Import data
+  
 ## Planned Features
 
 - Franchise rankings
